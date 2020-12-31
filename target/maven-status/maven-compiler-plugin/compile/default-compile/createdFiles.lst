@@ -1,0 +1,10 @@
+com\gmail\nimadastmalchi\blockshuffle\commands\EndCommand.class
+com\gmail\nimadastmalchi\blockshuffle\listeners\JoinListener.class
+com\gmail\nimadastmalchi\blockshuffle\ActivePlayer.class
+com\gmail\nimadastmalchi\blockshuffle\listeners\MoveListener.class
+com\gmail\nimadastmalchi\blockshuffle\commands\StartCommand.class
+com\gmail\nimadastmalchi\blockshuffle\Main$1.class
+com\gmail\nimadastmalchi\blockshuffle\Main.class
+com\gmail\nimadastmalchi\blockshuffle\Team.class
+com\gmail\nimadastmalchi\blockshuffle\listeners\QuitListener.class
+com\gmail\nimadastmalchi\blockshuffle\commands\ListCommand.class

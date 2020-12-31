@@ -1,0 +1,11 @@
+name: BlockShuffle
+version: 1.0
+main: com.gmail.nimadastmalchi.blockshuffle.Main
+
+commands:
+  start:
+    description: Start BlockShuffle.
+  end:
+    description: End BlockShuffle.
+  list:
+    description: List BlockShuffle.
