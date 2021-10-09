@@ -9,3 +9,6 @@ When entered into the game, type the '/start' command to initiate the mini-game.
 After the mini-game has been initiated, you may type the '/list' command to view the current teams, the status of each player, and the score associated with each player.
 
 You may also use the '/end' command to stop the plugin from interfering with the game.
+
+
+This plugin can be built using IntelliJ IDEA. Once built, place the generated '.jar' file in the plugins directory of the server.
